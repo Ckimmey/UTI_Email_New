@@ -1,0 +1,20 @@
+:root { 
+  --cultured-pearl: #f5f5f7;
+  --label-colorlightprimary: #000000;
+  --system-backgroundlighttertiary44: #ffffff;
+ 
+  --font-size-l: 22px;
+  --font-size-m: 18px;
+  --font-size-m2: 16px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 35px;
+  --font-size-xxs: 12px;
+  --font-size-xxxl: 96px;
+ 
+  --font-family-helvetica-bold: "Helvetica-Bold", Helvetica;
+  --font-family-helvetica_neue-bold: "Helvetica Neue-Bold", Helvetica;
+  --font-family-helvetica_neue-regular: "Helvetica Neue-Regular", Helvetica;
+  --font-family-lato: "Lato", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
